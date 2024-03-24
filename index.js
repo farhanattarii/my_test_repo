@@ -1,3 +1,4 @@
 let message = "How are you";
-console.log(message);
+let userName = "Farhan attarii";
+console.log(message + ' ' + userName);
 export {};
